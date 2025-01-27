@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info description="This example workflow shows a series of steps and verification activies to upgrade releases with confidence.  &#xA;Making extensive use of automation, this reference workflow equips you to minimize the effort to upgrade releases and to automate the process in a CI pipeline."/>
